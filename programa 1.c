@@ -1,3 +1,7 @@
+/*Gomez Hernandez Hugo Santiago
+Practica 11
+Ejercicio programa 1*/
+
 #include <stdio.h>
 #include <string.h>
 // Prototipo o firma de las funciones del programa
