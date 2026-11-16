@@ -1,3 +1,7 @@
+/*Gomez Hernandez Hugo Santiago
+Practica 11
+Ejercicio programa 2*/
+
 #include <stdio.h>
 void sumar(); // prototipo de la función
 int main()
