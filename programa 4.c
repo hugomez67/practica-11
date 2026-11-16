@@ -1,3 +1,7 @@
+/*Gomez Hernandez Hugo Santiago
+Practica 11
+Ejercicio programa 4*/
+
 #include<stdio.h>
 void incremento();
 /* La variable enteraGlobal es vista por todas
